@@ -16,6 +16,7 @@
 		8B0E31AA2B680A6400E2E7AE /* ListItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B0E31A92B680A6400E2E7AE /* ListItemView.swift */; };
 		8B0E31AC2B680B4000E2E7AE /* GalleryItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B0E31AB2B680B4000E2E7AE /* GalleryItemView.swift */; };
 		8B0E31AE2B680C0400E2E7AE /* GalleryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B0E31AD2B680C0400E2E7AE /* GalleryView.swift */; };
+		8B0E31B02B680FB700E2E7AE /* RecommendationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B0E31AF2B680FB700E2E7AE /* RecommendationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		8B0E31A92B680A6400E2E7AE /* ListItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListItemView.swift; sourceTree = "<group>"; };
 		8B0E31AB2B680B4000E2E7AE /* GalleryItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryItemView.swift; sourceTree = "<group>"; };
 		8B0E31AD2B680C0400E2E7AE /* GalleryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryView.swift; sourceTree = "<group>"; };
+		8B0E31AF2B680FB700E2E7AE /* RecommendationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecommendationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 			children = (
 				8B0E31A02B6804D900E2E7AE /* DetailView.swift */,
 				8B0E31A92B680A6400E2E7AE /* ListItemView.swift */,
+				8B0E31AF2B680FB700E2E7AE /* RecommendationView.swift */,
 				8B0E31A72B68086000E2E7AE /* ListView.swift */,
 				8B0E31AB2B680B4000E2E7AE /* GalleryItemView.swift */,
 				8B0E31AD2B680C0400E2E7AE /* GalleryView.swift */,
@@ -171,6 +174,7 @@
 				8B0E31AE2B680C0400E2E7AE /* GalleryView.swift in Sources */,
 				8B0E31AC2B680B4000E2E7AE /* GalleryItemView.swift in Sources */,
 				8B0E31AA2B680A6400E2E7AE /* ListItemView.swift in Sources */,
+				8B0E31B02B680FB700E2E7AE /* RecommendationView.swift in Sources */,
 				8B0E31A82B68086000E2E7AE /* ListView.swift in Sources */,
 				8B0E31902B68045D00E2E7AE /* LandmarksApp.swift in Sources */,
 				8B0E31A12B6804D900E2E7AE /* DetailView.swift in Sources */,
